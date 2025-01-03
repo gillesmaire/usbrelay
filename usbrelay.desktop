@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=USB Relay
+Comment=Launch usbrelay
+Exec=sudo usbrelay.sh
+Icon=switch.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+
