@@ -1,4 +1,4 @@
-# Licenes
+# Licence
 
 Copyright GPL 3 Written by Gilles Maire gilles@gillesmaire.com 2025
 
