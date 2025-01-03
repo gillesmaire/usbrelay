@@ -6,6 +6,10 @@ Copyright GPL 3 Written by Gilles Maire gilles@gillesmaire.com 2025
 
 github.com:gillesmaire/usbrelay.git
 
+# Presentation 
+
+If you connect a USB relay you can control a power strip from your desktop with a mouse. It is sueful for example to power on power off speaker of printer etc...
+
 # Installation
 
 ## Desktop
